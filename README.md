@@ -1,3 +1,5 @@
+![sanguineGameplay](https://github.com/user-attachments/assets/e176c17b-2855-44d5-8b45-9b93ea841b89)
+
 ## Rules of Sanguine:
 The goal of this game, inspired by the game Queen's Blood in Final Fantasy VII, is to earn a higher score than your oponent. You gain points by placing your cards on the board, where each card has a value that contributes to your score -- but you can only place cards on grid spaces that you occupy, and have enough pawns for the cost of the card (ex. if the card has cost 2, the space must display at least "2"). Each card has its own influence, which places pawns around the card. 
 <br>
